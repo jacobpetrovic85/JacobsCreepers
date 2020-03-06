@@ -1,2 +1,0 @@
-# JacobsCreepers
-Kind Creepers repo
